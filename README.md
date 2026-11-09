@@ -134,4 +134,4 @@ numpy, pandas, openpyxl, FastAPI, uvicorn, httpx, matplotlib; Evolution API, Pos
 - Sankalp Shankar
 - Shubham Kumar
 - Aditya Sinha
-- Surabhi Singh
+- Surbhi Singh
