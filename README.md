@@ -132,4 +132,6 @@ numpy, pandas, openpyxl, FastAPI, uvicorn, httpx, matplotlib; Evolution API, Pos
 ## Team
 
 - Sankalp Shankar
-- *Other team members and roles: to be added by the team.*
+- Shubham Kumar
+- Aditya Sinha
+- Surabhi Singh
